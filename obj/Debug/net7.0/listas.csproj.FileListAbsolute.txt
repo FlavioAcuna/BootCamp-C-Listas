@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\bin\Debug\net7.0\listas.exe
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\bin\Debug\net7.0\listas.deps.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\bin\Debug\net7.0\listas.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\bin\Debug\net7.0\listas.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\bin\Debug\net7.0\listas.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\refint\listas.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\listas.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\listas\obj\Debug\net7.0\ref\listas.dll
